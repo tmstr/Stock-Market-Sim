@@ -10,3 +10,4 @@ Therefore, an analogy can be made between the mathematics of the network and the
 gas if each node in the network were thought of as an energy level, and each link as a particle. This
 has implications for real situations including financial markets.
 
+![Stock Market Simulation Slide 4 ](https://drive.google.com/file/d/1iaCkUzjBLUFp9h9gdM6huduKJDyj0oYs/view?usp=sharing)
